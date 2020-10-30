@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**salihselimsekerci/salihselimsekerci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, this is **Salih Selim ŞEKERCİ**. I'm a Computer Science student living in Istanbul, TR. I very love software development.
 My experience in information technology, which is my passion and predisposition, is improving through my trainings and personal efforts.
 With happiness and pride in the field I am passionate about; I want to be productive with determination, desire and determination.
