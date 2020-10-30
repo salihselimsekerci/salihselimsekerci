@@ -7,7 +7,7 @@ With happiness and pride in the field I am passionate about; I want to be produc
 
 - 🔭 I’m currently working on Software
 - 🌱 I’m currently learning Computer Science
-- 💬 Ask me about Coding,CS Fundementals About
+- 💬 Ask me about Coding,CS Fundementals 
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - ⚡ Fun fact develop software and swim
 - 📫 You can reach me on https://www.github.com/salihselimsekerci/
