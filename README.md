@@ -3,7 +3,7 @@ My experience in information technology, which is my passion and predisposition,
 With happiness and pride in the field I am passionate about; I want to be productive with determination, desire and determination.
 
 - 💼 Check my professional profile on [Linkedin](https://www.linkedin.com/in/salihselimsekerci/)
-- 📓 See my blog profile on [Medium](https://www.salihselimsekerci.medium.com)
+- 📓 See my blog profile on [Medium](https://www.salihselimsekerci.medium.com/)
 
 - 🔭 I’m currently working on Software
 - 🌱 I’m currently learning Computer Science
