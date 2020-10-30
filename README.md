@@ -1,4 +1,4 @@
-Hello, this is **Salih Selim ŞEKERCİ**. I'm a Computer Science student living in Istanbul, TR. I very love software development.
+Hello, this is **Salih Selim ŞEKERCİ**. I'm a Computer Science student living in Istanbul, TR. I love very much software development.
 My experience in information technology, which is my passion and predisposition, is improving through my trainings and personal efforts.
 With happiness and pride in the field I am passionate about; I want to be productive with determination, desire and determination.
 
