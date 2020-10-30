@@ -10,5 +10,5 @@ With happiness and pride in the field I am passionate about; I want to be produc
 - 💬 Ask me about Coding,CS Fundementals 
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - ⚡ Fun fact  Software Development and Swimming
-- 📫 You can reach me on https://www.github.com/salihselimsekerci/
+- 📫 You can reach me on [Gmail](salihselimsekerci@gmail.com)
 
