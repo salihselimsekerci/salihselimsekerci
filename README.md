@@ -13,4 +13,4 @@ With happiness and pride in the field I am passionate about; I want to be produc
 - 📫 You can reach me on https://salihselimsekerci.github.io/
 
 -📲 Android Game&Apps
-<code><a href=https://play.google.com/store/apps/dev?id=8668643486190960386" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
+<code><a href="https://play.google.com/store/apps/dev?id=8668643486190960386" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
