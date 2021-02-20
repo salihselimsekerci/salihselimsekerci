@@ -10,7 +10,7 @@ With happiness and pride in the field I am passionate about; I want to be produc
 - 💬 Ask me about Coding,CS Fundementals and Informotion Technologies 
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - ⚡ Fun fact  Software Development and Swimming
-- 📫 You can reach me on  [![GitHub Badge](https://img.shields.io/badge/GitHub.io-10000?style=for-the-badge&logo=github&logoColor=white=https://salihselimsekerci.github.io/)](https://salihselimsekerci.github.io/)
+- 📫 You can reach me on  [![GitHub Badge](https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white=https://salihselimsekerci.github.io/)](https://salihselimsekerci.github.io/)
 
 - 📲 Android Apps
    
