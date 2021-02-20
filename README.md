@@ -18,3 +18,4 @@ With happiness and pride in the field I am passionate about; I want to be produc
 
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://salihselimsekerci.medium.com)](https://salihselimsekerci.medium.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salihselimsekerci)](https://www.linkedin.com/in/salihselimsekerci)
