@@ -19,3 +19,4 @@ With happiness and pride in the field I am passionate about; I want to be produc
 
 
 
+![Custom badge](https://img.shields.io/endpoint?color=Black&logo=My%20Personel%20Website&style=social&url=https%3A%2F%2Fsalihselimsekerci.github.io%2F)
