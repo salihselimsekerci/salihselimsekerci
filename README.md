@@ -17,6 +17,3 @@ With happiness and pride in the field I am passionate about; I want to be produc
    <code><a href="https://play.google.com/store/apps/developer?id=Salih+Selim+%C5%9EEKERC%C4%B0" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
 
 
-
-
-![Custom badge](https://img.shields.io/endpoint?color=Black&logo=My%20Personel%20Website&style=social&url=https%3A%2F%2Fsalihselimsekerci.github.io%2F)
