@@ -15,3 +15,6 @@ With happiness and pride in the field I am passionate about; I want to be produc
 - 📲 Android Apps
    
    <code><a href="https://play.google.com/store/apps/developer?id=Salih+Selim+%C5%9EEKERC%C4%B0" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
+
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://salihselimsekerci.medium.com)](https://salihselimsekerci.medium.com)
