@@ -10,7 +10,5 @@ Hello! I'm Salih Selim ŞEKERCİ, a passionate Software Developer based in Istan
 - ⚡ Fun fact  Software Development and Swimming
 - 📫 You can reach me on  [![GitHub Badge](https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white=https://salihselimsekerci.github.io/)](https://salihselimsekerci.github.io/)
 
-- 📲 Android Apps
-   
-   <code><a href="https://play.google.com/store/apps/developer?id=Salih+Selim+%C5%9EEKERC%C4%B0" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
+
 
