@@ -1,14 +1,11 @@
-Hello! I'm Salih Selim ŞEKERCİ, a passionate Software Developer based in Istanbul, Turkey. With a solid background in information technologies, I continuously strive to enhance my skills through education and personal projects. My goal is to be productive with determination and perseverance.
+Hello! I'm **Salih Selim ŞEKERCİ**, a passionate Software Developer based in Istanbul, Turkey. With a strong background in information technologies, I am committed to continuously enhancing my skills through both formal education and personal projects. My goal is to contribute meaningfully to the tech community, driven by determination and perseverance.
 
-- 💼 Check my professional profile on  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salihselimsekerci)](https://www.linkedin.com/in/salihselimsekerci)
-- 📓 See my blog profile on  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://salihselimsekerci.medium.com)](https://salihselimsekerci.medium.com)
+- 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/salihselimsekerci) ![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)
+- 📓 Read my blog on [Medium](https://salihselimsekerci.medium.com) ![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)
 
-- 🔭 I’m currently working on Software
-- 🌱 I’m currently learning Computer Science
-- 💬 Ask me about Coding, CS Fundementals and Informotion Technologies 
-- 👯 I’m looking to collaborate on promising software projects with passionate developers.
-- ⚡ Fun fact  Software Development and Swimming
-- 📫 You can reach me on  [![GitHub Badge](https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white=https://salihselimsekerci.github.io/)](https://salihselimsekerci.github.io/)
-
-
-
+- 🔭 Currently working on exciting software projects.
+- 🌱 Expanding my knowledge in Computer Science.
+- 💬 Feel free to ask me about coding, CS fundamentals, and information technologies.
+- 👯 Open to collaborating on promising software projects with like-minded developers.
+- ⚡ Fun fact: I’m as passionate about swimming as I am about software development.
+- 📫 You can reach me through my [GitHub](https://salihselimsekerci.github.io/) ![GitHub Badge](https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white)
